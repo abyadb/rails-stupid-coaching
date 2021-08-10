@@ -1,0 +1,29 @@
+// Place all the styles related to the Questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+h1 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 50;
+  letter-spacing: .1pc;
+}
+
+p {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.speakername {
+  font-style: italic;
+}
+
+.eitheranswer {
+}
+
+.youbox {
+}
+
+.coachbox {
+  background-color: yellow;
+  opacity: 0.3;
+}
